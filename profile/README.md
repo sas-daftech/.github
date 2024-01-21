@@ -1,2 +1,2 @@
 # daftech
-**daftech** is a Java and Cloud oriented company
+**daftech** is a Java 👨‍💻 and Cloud ☁️ oriented company
