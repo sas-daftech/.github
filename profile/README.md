@@ -22,7 +22,7 @@ We're a team of passionate software engineers and innovators dedicated to creati
 * Pierre Dupont 🙌
 * Sofia Rodriguez 😊
 
-**Language:** Franch, English 💬
+**Language:** French, English 💬
 
 **Location:** Lyon, France 📍
 
